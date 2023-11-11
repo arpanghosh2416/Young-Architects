@@ -1,2 +1,2 @@
-# Young-Architects
+# young-architects
 Business Portfolio
